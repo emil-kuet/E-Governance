@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+   <Ad>
+      <ImageUrl>~/images/ipad.jpg</ImageUrl>
+      <NavigateUrl>https://www.apple.com/ipad/</NavigateUrl>
+      <AlternateText>
+         https://www.apple.com/ipad/
+      </AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>ipad</Keyword>
+   </Ad>
+
+   <Ad>
+      <ImageUrl>~/images/levo.jpg</ImageUrl>
+      <NavigateUrl>https://www.levo.com</NavigateUrl>
+      <AlternateText>https://www.levo.com</AlternateText>
+     <text>hhhhwjkjhjhjhjhjhjkhhduhjkhd</text>
+      <Impressions>20</Impressions>
+      <Keyword>levo</Keyword>
+   </Ad>
+
+   <Ad>
+     <ImageUrl>~/images/malboro.jpg</ImageUrl>
+      <NavigateUrl>https://www.marlboro.com</NavigateUrl>
+      <AlternateText>https://www.marlboro.com</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>malboro</Keyword>
+   </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/airtel.jpg</ImageUrl>
+    <NavigateUrl>https://www.airtel.com.bd</NavigateUrl>
+    <AlternateText>https://www.airtel.com.bd</AlternateText>
+    <Impressions>210</Impressions>
+    <Keyword>airtel</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/gp.jpg</ImageUrl>
+    <NavigateUrl>https://www.grameenphone.com</NavigateUrl>
+    <AlternateText>https://www.grameenphone.com</AlternateText>
+    <Impressions>120</Impressions>
+    <Keyword>gp</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/banglalink.jpg</ImageUrl>
+    <NavigateUrl>https://www.banglalink.com</NavigateUrl>
+    <AlternateText>https://www.banglalink.com</AlternateText>
+    <Impressions>120</Impressions>
+    <Keyword>bl</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/banglalion.jpg</ImageUrl>
+    <NavigateUrl>https://www.banglalion.com</NavigateUrl>
+    <AlternateText>https://www.banglalion.com</AlternateText>
+    <Impressions>120</Impressions>
+    <Keyword>blion</Keyword>
+  </Ad>
+
+
+</Advertisements>
